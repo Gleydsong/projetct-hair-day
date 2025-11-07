@@ -1,0 +1,20 @@
+{
+  "name": "hairday",
+  "version": "1.0.0",
+  "description": "Sistema de agendamento para salão de beleza",
+  "author": "GuiDev",
+  "main": "main.js",
+  "scripts": {
+    "server": "json-server --watch server.json --port 3333",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.21"
+  },
+  "devDependencies": {
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
