@@ -6,6 +6,8 @@ const hours = document.getElementById('hours');
 
 export function hoursLoad ({date}) {
     const opening = openingHours.map((hour) => {
+    // limpa lista de horarios 
+    hours.innerHTML = '';
 
     const [scheduleHour] = hour.split(':');
 
