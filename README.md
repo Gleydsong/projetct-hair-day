@@ -85,7 +85,7 @@ Antes de começar, você precisa ter instalado:
 ### 1️⃣ Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/hair-day.git
+git clone https://github.com/Gleydsong/hair-day.git
 ```
 
 ### 2️⃣ Entre na pasta do projeto
