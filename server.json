@@ -1,3 +1,9 @@
 {
-    "schedules": []
+  "schedules": [
+    {
+      "id": 1762587694352,
+      "name": "gibson",
+      "when": "2025-11-08T20:00:00"
+    }
+  ]
 }
